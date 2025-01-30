@@ -7,7 +7,5 @@ public class Toss {
         int toss2;
         int toss3;
         int headcount ;
-
-
     }
 }
